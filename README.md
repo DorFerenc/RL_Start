@@ -74,7 +74,7 @@ Then you reveal your choices and get points:
 ## Files in This Project
 
 ```
-├── assignment1_Sara_Dor.ipynb    # Main notebook (run this!)
+├── assignment1_fnal.ipynb    # Main notebook (run this!)
 ├── README.md                  # This file
 ├── convergence_plots.png      # How the algorithm converges
 ├── reward_vs_gamma.png        # Rewards at different discount factors
@@ -86,7 +86,7 @@ Then you reveal your choices and get points:
 ## How to Run
 
 1. Open Google Colab: https://colab.research.google.com
-2. Upload `assignment1_Sara_Dor.ipynb`
+2. Upload `assignment1_final.ipynb`
 3. Click "Runtime" → "Run all"
 4. Wait for all cells to complete
 5. All outputs will appear inline!
