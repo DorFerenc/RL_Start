@@ -1,0 +1,6 @@
+1. Add numbering for all sections
+2. Show more data while training (every 500 steps print the specs including time and results)
+3. showing random key with 20,000 steps
+4. recored the mid videos during the initial training the first time dont recored them after in a different training
+5. After initial train the recored the finished videos
+6. What can we learn from this notebook? what is not working?
